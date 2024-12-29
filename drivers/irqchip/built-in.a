@@ -1,0 +1,11 @@
+!<thin>
+//                                              60        `
+irqchip.o/
+exynos-combiner.o/
+irq-gic.o/
+irq-gic-common.o/
+
+/0              0           0     0     644     4096      `
+/11             0           0     0     644     115384    `
+/30             0           0     0     644     234144    `
+/41             0           0     0     644     18960     `
