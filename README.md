@@ -1,1 +1,1 @@
-git clone https://github.com/Herokezin/KARNAGE-A12-NACHO-KSU-UD.git
+git clone (https://github.com/Snow2530/KARNAGE-A12-NACHO-SD.git)
